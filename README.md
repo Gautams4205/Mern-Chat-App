@@ -73,7 +73,7 @@ Start the Client
 ### Add or Remove users from group
 ![](https://github.com/Gautams4205/Mern-Chat-App/blob/main/screenshots/add%20rem.PNG)
 ### View Other user Profile
-![](https://github.com/Gautams4205/Mern-Chat-App/blob/main/screenshots/profile.PNG)
+![](https://github.com/Gautams4205/Mern-Chat-App/blob/main/screenshots/profile.PNG.png)
 ## Made By
 
 - [@Gautam Singh](https://github.com/Gautams4205)
